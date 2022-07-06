@@ -1,0 +1,23 @@
+[
+
+    {
+        "main_id": 1,
+        "name": "Laptops"
+
+    },
+    {
+        "main_id": 2,
+        "name": "Hardware's"
+
+    },
+    {
+        "main_id": 3,
+        "name": "printers"
+
+    },
+    {
+        "main_id": 4,
+        "name": "CCTV"
+
+    }
+]
